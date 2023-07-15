@@ -1,7 +1,7 @@
 ## About Me
 
 - I'm 5eqn, a CS student at HITsz.
-- Currently focusing on frontend developement with [Flutter](https://github.com/flutter/flutter).
+- Currently focusing on type theory and its industrial application.
 - Knows a little about programming language theory, frontend / backend, machine learning and game development.
 
 ## GitHub Stats
