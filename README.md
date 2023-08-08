@@ -1,8 +1,8 @@
 ## About Me
 
-- I'm 5eqn, a CS student at HITsz.
-- Currently focusing on type theory and its industrial application.
-- Knows a little about programming language theory, frontend / backend, machine learning and game development.
+|Formal|Whatever|
+|-|-|
+|<ul><li>I'm 5eqn, a CS student at HITsz.</li><li>Currently focusing on type theory and its industrial application.</li><li>Knows a little about programming language theory, frontend / backend, machine learning and game development.</li></ul>|<ul><li>ISFP that looks like INTP (but why?)</li><li>Plays Eggy Party literally every day</li><li>Convinced that Dependent Types will rule the world eventually, just because of some unproved naive ideas</li></ul>|
 
 ## GitHub Stats
 
